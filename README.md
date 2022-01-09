@@ -1,0 +1,2 @@
+# script
+v2ray
